@@ -8,6 +8,6 @@ streamlit.text('🐔 Keitetty kananmuna')
 streamlit.text('🥑🍞 Avocado-Paahtis')
 
 streamlit.text('\N{flexed biceps} Breakfast of Champion Coders \N{flexed biceps}')
-streamlit.text(':chicken:')
+streamlit.text(:chicken:)
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
