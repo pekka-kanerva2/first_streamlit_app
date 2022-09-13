@@ -7,4 +7,4 @@ streamlit.text('🥗 Pinatti-smoothie')
 streamlit.text('🐔 Keitetty kananmuna')
 streamlit.text('🥑🍞 Avocado-Paahtis')
 
-
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
