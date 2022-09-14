@@ -2,7 +2,7 @@ import streamlit
 import pandas
 
 
-streamlit.title('Kane''s Diner')
+streamlit.title('Pekan Diner')
 streamlit.header('Herkku-Breakfast')
 streamlit.text('🥣 Kaurapuuro')
 streamlit.text('🥗 Pinatti-smoothie')
